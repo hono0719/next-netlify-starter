@@ -16,6 +16,19 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
+    
+      <!DOCTYPE html>
+      <html>
+        <head>
+        <meta charset="UTF-8">
+        <script src="loc1.js"></script>
+        </head>
+        <body>
+        <H2>Testing Geolocation API: getCurrentPosition()</H2>
+        <dl id="result"></dl>
+        </body>
+      </html>
+
 
       <Footer />
     </div>
