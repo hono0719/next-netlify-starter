@@ -19,5 +19,18 @@ export default function Home() {
 
       <Footer />
     </div>
+    
+    <!DOCTYPE html>
+      <html>
+       <head>
+        <meta charset="UTF-8">
+        <script src="loc1.js"></script>
+       </head>
+       <body>
+        <H2>Testing Geolocation API: getCurrentPosition()</H2>
+        <dl id="result"></dl>
+       </body>
+    </html>
+
   )
 }
